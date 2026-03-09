@@ -1,0 +1,12 @@
+package com.addressbook.addressbookapp;
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AddressBookAppTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
